@@ -1,0 +1,4 @@
+[submodule "ramyshalaby/odoo-15"]
+	path = ramyshalaby/odoo-15
+	url = git@github.com:ramyshalaby/odoo-15.git
+	branch = master
