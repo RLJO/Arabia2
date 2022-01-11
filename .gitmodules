@@ -7,3 +7,8 @@
 	path = SamAndaluz/norpac
 	url = git@github.com:SamAndaluz/norpac.git
 	branch = stg4Nov21datos
+
+[submodule "Captivea-pat/DashboardAPPLW"]
+	path = Captivea-pat/DashboardAPPLW
+	url = git@github.com:Captivea-pat/DashboardAPPLW.git
+	branch = main
